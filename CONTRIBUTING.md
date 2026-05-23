@@ -4,7 +4,7 @@ Welcome to A-Z-Python-Projects! We're excited that you're interested in contribu
 ## Getting Started
 To contribute to this project, follow these steps:
     
-1. **Fork the repository:** Click the "Fork" button at the top right of the <a href="https://github.com/Techiral/A-Z-Python-Projects/">A-Z-Python-Projects repository</a>.
+1. **Fork the repository:** Click the "Fork" button at the top right of the <a href="https://github.com/lakshyabuilds/A-Z-Python-Projects/">A-Z-Python-Projects repository</a>.
 
 2. **Clone your fork:** Clone your forked repository to your local machine using `git clone`.
    <pre>`git clone https://github.com/your-username/A-Z-Python-Projects.git`</pre>
@@ -23,7 +23,7 @@ To contribute to this project, follow these steps:
 7. **Push your changes:** Push your branch to your forked repository on GitHub.
      <pre>`git push origin feature/your-feature-name`</pre>
 
-8. **Create a Pull Request:** Go to the <a href="https://github.com/Techiral/A-Z-Python-Projects/">A-Z-Python-Projects repository</a> on GitHub and click on the "New Pull Request" button. Select your branch, add a descriptive title and comments, and submit the Pull Request.
+8. **Create a Pull Request:** Go to the <a href="https://github.com/lakshyabuilds/A-Z-Python-Projects/">A-Z-Python-Projects repository</a> on GitHub and click on the "New Pull Request" button. Select your branch, add a descriptive title and comments, and submit the Pull Request.
 
 9. **Review and Collaborate:** Collaborate with the maintainers and other contributors to address any feedback and get your Pull Request merged.
     
@@ -32,6 +32,9 @@ Please note that we have a Code of Conduct in place. We expect all contributors 
 
 ## Hacktoberfest
 If you're participating in Hacktoberfest, you can contribute to this repository to earn your Hacktoberfest contributions. Just make sure your contributions follow the guidelines mentioned above.
+
+## GSSoC
+If you're participating in GSSoC, you can contribute to this repository to earn your GSSoC contributions. Just make sure your contributions follow the guidelines mentioned above.
 
 Thank you for contributing to A-Z-Python-Projects, and happy coding!
 
