@@ -1,17 +1,22 @@
 <h1 align="center">Welcome to A-Z-Python-Projects 🐍</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Techiral/A-Z-Python-Projects?style=social" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/Techiral/A-Z-Python-Projects?style=social" alt="GitHub forks">
+  <img src="https://img.shields.io/github/stars/lakshyabuilds/A-Z-Python-Projects?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/lakshyabuilds/A-Z-Python-Projects?style=social" alt="GitHub forks">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
   <img src="https://img.shields.io/badge/PRs-Welcome-green.svg" alt="PRs Welcome">
-  <img src="https://img.shields.io/github/contributors/Techiral/A-Z-Python-Projects" alt="GitHub contributors">
-  <img src="https://img.shields.io/github/last-commit/Techiral/A-Z-Python-Projects" alt="GitHub last commit">
-  <img src="https://img.shields.io/github/issues-pr/Techiral/A-Z-Python-Projects" alt="GitHub pull requests">
-  <img src="https://img.shields.io/badge/Hacktoberfest-friendly-blueviolet" alt="Hacktoberfest">
+  <img src="https://img.shields.io/github/contributors/lakshyabuilds/A-Z-Python-Projects" alt="GitHub contributors">
+  <img src="https://img.shields.io/github/last-commit/lakshyabuilds/A-Z-Python-Projects" alt="GitHub last commit">
+  <img src="https://img.shields.io/github/issues-pr/lakshyabuilds/A-Z-Python-Projects" alt="GitHub pull requests">
+  <img src="https://img.shields.io/badge/GSSoC-friendly-blueviolet" alt="GSSoC">
   </p>
 
-<p align="center">A curated collection of Python projects from A to Z, designed for beginners to advanced developers. Contribute and join Hacktoberfest!</p>
+<p align="center">A curated collection of Python projects from A to Z, designed for beginners to advanced developers. Contribute and join GSSoC!</p>
+
+> [!IMPORTANT]
+> **This is a continuation of an older project.** 
+> My previous GitHub profile was deactivated, making this the new official repository. Please direct all your support, stars, and contributions to this version!
+
 
 ---
 
@@ -51,7 +56,7 @@ We welcome contributions from developers of all skill levels. Follow these steps
    git push origin feature/your-feature-name
    ```
 
-5. **Create a Pull Request:** Go to the [A-Z-Python-Projects repository](https://github.com/Techiral/A-Z-Python-Projects/) on GitHub and click on the "New Pull Request" button. Select your branch, add a descriptive title and comments, and submit the Pull Request.
+5. **Create a Pull Request:** Go to the [A-Z-Python-Projects repository](https://github.com/lakshyabuilds/A-Z-Python-Projects/) on GitHub and click on the "New Pull Request" button. Select your branch, add a descriptive title and comments, and submit the Pull Request.
 
 6. **Review and Collaborate:** Collaborate with the maintainers and other contributors to address any feedback and get your Pull Request merged.
 
@@ -59,21 +64,15 @@ We welcome contributions from developers of all skill levels. Follow these steps
 
 ---
 
-## 🎉 Participate in Hacktoberfest
+## 🎉 Participate in Hacktoberfest, GSSoC
 
-This repository is Hacktoberfest-friendly! Here's how you can participate:
+This repository is Hacktoberfest-friendly & GSSoC-compatible! Here's how you can participate:
 
 1. **Contribute:** Follow the contribution steps mentioned above to add Python projects to this repository.
 
 2. **Earn Hacktoberfest contributions:** Each valid pull request you make to this repository during Hacktoberfest will count toward your participation in the Hacktoberfest event.
-
----
-
-## Related Hacktoberfest Projects
-
-- [Everything-is-Free](https://github.com/Techiral/Everything-is-Free)
-- [STAR](https://github.com/Techiral/STAR)
-- [AI-OctoFusion](https://github.com/Techiral/AI-OctoFusion)
+   
+4. **Earn GSSoC contributions:** Each valid pull request you make to this repository during GSSoC will count toward your participation in the GSSoC event.
 
 ---
 
@@ -87,7 +86,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 We appreciate the contributions from the following community members:
 
-- [Techiral](https://github.com/Techiral/)
+- [Lakshya Builds](https://github.com/lakshyabuilds/)
 - [BassCoder2808](https://github.com/BassCoder2808/)
 - [Prathamesh Patil](https://www.linkedin.com/in/prathamesh8124/)
 - [Leprecha1](https://github.com/leprecha1/)
